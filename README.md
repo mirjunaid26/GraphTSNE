@@ -4,10 +4,11 @@ April 15, 2019
 
 ### Description
 PyTorch implementation of the ICLR'19 paper:<br>
-GraphTSNE: A Visualisation Technique for Graph-Structured Data <br>
+GraphTSNE: A Visualization Technique for Graph-Structured Data <br>
 International Conference on Learning Representations 2019 <br>
-Workshop for Representation Learning on Graphs and Manifolds
-<br>
+Workshop for Representation Learning on Graphs and Manifolds <br>
+ArXiv: https://arxiv.org/abs/1904.06915
+Blog post: https://leowyy.github.io/2019/04/16/graphtsne/
 
 <img src="pic/plots.png" width="700" height="450"/> <br>
 
@@ -27,8 +28,8 @@ The notebook takes roughly 3 minutes to run with GPU, or 8 minutes with CPU.
    source ~/.bashrc
 
    # Clone GitHub repo
-   git clone https://github.com/leowyy/graph-tsne-draft.git
-   cd graph-tsne-draft
+   git clone https://github.com/leowyy/GraphTSNE.git
+   cd GraphTSNE
 
    # Install python libraries
    conda env create -f environment.yml
