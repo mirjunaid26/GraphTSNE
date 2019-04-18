@@ -12,12 +12,8 @@ ArXiv: https://arxiv.org/abs/1904.06915 <br>
 Blog post: https://leowyy.github.io/graphtsne <br>
 
 <p align="center">
-<figure>
-   <center>
-       <img src="pic/graphtsne.gif" width="600">
-       <figcaption><b>GraphTSNE on the Cora Citation Network</b></figcaption>
-    </center>
-</figure>
+   <img src="pic/graphtsne.gif" width="600">
+   <b>GraphTSNE on the Cora Citation Network</b>
 </p>
 
 ### Codes
