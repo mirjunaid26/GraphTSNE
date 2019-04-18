@@ -12,7 +12,7 @@ ArXiv: https://arxiv.org/abs/1904.06915 <br>
 Blog post: https://leowyy.github.io/graphtsne <br>
 
 <p align="center">
-   <img src="pic/graphtsne.gif" width="600">
+   <img src="pic/graphtsne.gif" width="600"> <br>
    <b>GraphTSNE on the Cora Citation Network</b>
 </p>
 
