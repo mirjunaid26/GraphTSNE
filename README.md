@@ -9,7 +9,7 @@ GraphTSNE: A Visualization Technique for Graph-Structured Data <br>
 International Conference on Learning Representations 2019 <br>
 Workshop for Representation Learning on Graphs and Manifolds <br>
 ArXiv: https://arxiv.org/abs/1904.06915 <br>
-Blog post: https://leowyy.github.io/graphtsne/ <br>
+Blog post: https://leowyy.github.io/graphtsne <br>
 
 <img src="pic/plots.png" width="700" height="450"/> <br>
 
