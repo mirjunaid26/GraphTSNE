@@ -11,7 +11,12 @@ Workshop for Representation Learning on Graphs and Manifolds <br>
 ArXiv: https://arxiv.org/abs/1904.06915 <br>
 Blog post: https://leowyy.github.io/graphtsne <br>
 
-<img src="pic/plots.png" width="700" height="450"/> <br>
+<figure>
+   <center>
+       <img src="pic/graphtsne.gif" width="600">
+       <figcaption><b>GraphTSNE on the Cora Citation Network</b></figcaption>
+    </center>
+</figure>
 
 ### Codes
 The code `demo_notebook.ipynb` creates a visualization of the Cora citation network using GraphTSNE. The original Cora dataset and other citation networks can be found here: http://linqs.cs.umd.edu/projects/projects/lbc/.
